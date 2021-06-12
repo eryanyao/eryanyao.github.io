@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: YAN YAO
+name: yanyao
 
 # Short bio or description (displayed in the header)
 description: Web Developer/ Mobile Developer/ Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://picsum.photos/200
 
 #
 # Flags below are optional
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: yanyao
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
