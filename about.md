@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I start building this site at 12nd June 2021. Today is a excited weekend and I can take time out of the internship. So I decided to create a database containing my IT work. The database will include notes, learning materials, thoughts and so on. 
+I start building this site at 12th June 2021. Today is a excited weekend and I can take time out of the internship. So I decided to create a database containing my IT work. The database will include notes, learning materials, thoughts and so on. 
 
 
 
