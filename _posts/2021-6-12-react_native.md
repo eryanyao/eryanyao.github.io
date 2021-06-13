@@ -2,7 +2,7 @@
 layout: post
 title: React Native 
 ---
-Below will show some note that I write down when i learning react native. It contain some code, notes, documents, etc.
+This posts will contain some note that I write down when i learning react native. It contain some code, notes, documents, etc.
 
 
 
