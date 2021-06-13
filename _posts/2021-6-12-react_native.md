@@ -3,9 +3,8 @@ layout: post
 title: React Native 
 ---
 
-Below will show some note that I write down when i learning react native
+### Below will show some note that I write down when i learning react native
 ---
-# react_native_learning
 React Native Learning
 # React Native 
 - **useState**
