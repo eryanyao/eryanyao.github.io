@@ -2,7 +2,7 @@
 layout: post
 title: Useful Link
 ---
-Below will show the link that useful for me. It will contain show guide, online lecturer, tools, etc.
+This post will contain the link that i feel useful for me. It will contain show guide, online lecturer, tools, etc.
 
 ---
 - markdown basic syntax
