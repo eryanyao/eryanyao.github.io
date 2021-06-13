@@ -18,7 +18,9 @@ const  clickHandler =  ()  =>  {
 	setPerson({name:'fucker bullshit', age:  4241});
 }
 ```
+
 - **stylesheet**
+
 ```javascript
 const styles = StyleSheet.create({
 	container:  {
@@ -51,13 +53,17 @@ const styles = StyleSheet.create({
 	}
 });
 ```
+
 1. View
 2. Text
 3. Button
+
 ```javascript 
 <Button  onPress={()  =>  submitHandler(text)} title='add todo'/> 
 ```
+
 4. TextInput
+
 ```javacript
 <TextInput 
 	style={styles.input}
@@ -67,6 +73,7 @@ const styles = StyleSheet.create({
 ```
 5. ScrollView
 6. map
+
 ```javascript 
 return (
 	<View  style={styles.container}>
@@ -84,7 +91,9 @@ return (
 	</View>
 );
 ```
+
 7. Flatlist
+
 ```javascript
 <FlatList
 	keyExtractor={(item)  =>  item.id}
@@ -94,7 +103,9 @@ return (
 	<Text  style={styles.item}>{item.name}</Text>
 )} />
 ```
+
 8. TouchableOpacity
+
 ```javascript
 <TouchableOpacity  onPress={()  =>  pressHandler(item.id)}>
 	<Text  style={styles.item}>{item.name}</Text>
@@ -109,8 +120,10 @@ const  pressHandler =  (id)  =>  {
 	})
 }
 ```
+
 ## To do list
 - show to do item
+
 ```javascript
 //TodoItem
 export  default  function  TodoItem({item, pressHandler}){
@@ -121,7 +134,9 @@ return (
 )
 }
 ```
+
 - add item
+
 ```javascript
 //AddTodo
 export  default  function  AddTodo({submitHandler}){
@@ -141,7 +156,9 @@ return (
 )
 }
 ```
+
 - App.js
+
 ```javascript 
 import  TodoItem  from  './components/todo.js';
 import  AddTodo  from  './components/addTodo';
@@ -168,6 +185,7 @@ const  submitHandler =  (text)  =>  {
 	})
 }
 ```
+
 ```javascript
 return (
 <View  style={styles.container}>
@@ -184,6 +202,7 @@ return (
 </View>
 );
 ```
+
 
 
 
