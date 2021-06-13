@@ -8,9 +8,11 @@ published: true
 I start building this site at 12nd June 2021. Today is a excited weekend and I can take time out of the internship. So I decided to create a database containing my IT work. The database will include notes, learning materials, thoughts and so on. 
 
 
+
 ### Design
 
 At first, very appreciate [Jekyll-now](https://github.com/barryclark/jekyll-now) give a beautiful template so that I can effectively develop this website.
+
 
 
 ### Contact me
