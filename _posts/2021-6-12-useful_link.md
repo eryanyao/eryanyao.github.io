@@ -20,10 +20,12 @@ React Native Basics: Build a Currency Converter
 
 ---
 - Data structure and algorithm video
+
 <https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H>
 
 ---
 - Web development knowledges
+
 <https://www.youtube.com/c/WebDevSimplified>
 
 
