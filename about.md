@@ -9,16 +9,14 @@ I start building this site at 12th June 2021. Today is a excited weekend and I c
 <br><br>
 
 ### Design
-
 At first, very appreciate [Jekyll-now](https://github.com/barryclark/jekyll-now) give a beautiful template so that I can effectively develop this website.
 <br><br>
 
 ### Typography
-- Font-family: helveticaNeue 
+- Font-family: Helvetica Neue 
 <br><br>
 
 ### Contact me
-
 [yanyao1999@outlook.com](mailto:yanyao1999@outlook.com)
 
 [https://yanyao.me/](https://yanyao.me/)
