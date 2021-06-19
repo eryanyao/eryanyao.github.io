@@ -26,7 +26,7 @@ This post will show the certifications I have obtained.
 - Issuing authority: One Month
 - Issued Dec 2020 No Expiration Date
 - Credential ID BAB9D98A
-- [See credential](https://www.sololearn.com/certificates/course/en/18642295/1060/landscape/png)
+- [See credential](https://yanyao.me/assets/cert/One%20Month%20Learn%20JavaScript%20Certificate.pdf)
 
 **SQL**
 - Issuing authority: SoloLearn
