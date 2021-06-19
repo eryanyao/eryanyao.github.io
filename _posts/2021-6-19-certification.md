@@ -24,7 +24,7 @@ This post will show the certifications I have obtained.
 
 **SQL**
 - Issuing authority: SoloLearn
-- Issued May 2020 No Expiration Date
+- Issued June 2021 No Expiration Date
 - Credential Identifier: Credential ID #18642295-1060
 - [See credential](https://www.sololearn.com/certificates/course/en/18642295/1060/landscape/png)
 
@@ -36,6 +36,6 @@ This post will show the certifications I have obtained.
 
 **C++ Course**
 - Issuing authority: SoloLearn
-- Issued May 2021 No Expiration Date
+- Issued May 2020 No Expiration Date
 - Credential Identifier: Credential ID #1051-18642295
 - [See credential](https://www.sololearn.com/Certificate/1051-18642295/jpg/)
