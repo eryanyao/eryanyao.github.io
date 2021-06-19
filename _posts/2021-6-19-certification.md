@@ -22,20 +22,26 @@ This post will show the certifications I have obtained.
 - Issued Dec 2019 No Expiration Date
 - [See credential](https://yanyao.me/assets/cert/SAP%20ERP%20Cert.pdf)
 
+**Learn JavaScript**
+- Issuing authority: One Month
+- Issued Dec 2020 No Expiration Date
+- Credential ID BAB9D98A
+- [See credential](https://www.sololearn.com/certificates/course/en/18642295/1060/landscape/png)
+
 **SQL**
 - Issuing authority: SoloLearn
 - Issued June 2021 No Expiration Date
-- Credential Identifier: Credential ID #18642295-1060
+- Credential ID #18642295-1060
 - [See credential](https://www.sololearn.com/certificates/course/en/18642295/1060/landscape/png)
 
 **Java Course**
 - Issuing authority: SoloLearn
 - Issued May 2020 No Expiration Date
-- Credential Identifier: Credential ID #1068-18642295
+- Credential ID #1068-18642295
 - [See credential](https://www.sololearn.com/Certificate/1068-18642295/jpg/)
 
 **C++ Course**
 - Issuing authority: SoloLearn
 - Issued May 2020 No Expiration Date
-- Credential Identifier: Credential ID #1051-18642295
+- Credential ID #1051-18642295
 - [See credential](https://www.sololearn.com/Certificate/1051-18642295/jpg/)
