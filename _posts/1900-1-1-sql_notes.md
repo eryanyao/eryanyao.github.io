@@ -48,7 +48,17 @@ WHERE state NOT IN ('MY','SG','TW');
 ```
 ### SUBQUERY
 ### JOIN
+#### UNION
+> The UNION operator is used to combine the result-sets of two or more SELECT statements.
+```sql
+SELECT column_name(s) FROM table1
+UNION
+SELECT column_name(s) FROM table2;
+```
+#### UNION ALL
+> SELECT ALL ROW INCLUDING REPEAT ROW
 
+![image](https://user-images.githubusercontent.com/74011230/122631179-4e5d3780-d0fc-11eb-92fd-4cbb38a178a6.png)
 
 ### OTHER
 #### CONCAT/AS
