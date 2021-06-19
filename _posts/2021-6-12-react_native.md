@@ -205,4 +205,7 @@ return (
 
 
 
+### Deeplink
+A link that can allow user redirect to specific screen. Based on the route path.
 
+It corporate with the secret method to avoid unauthorized access.
