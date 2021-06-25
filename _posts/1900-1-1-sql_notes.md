@@ -48,6 +48,8 @@ WHERE state NOT IN ('MY','SG','TW');
 ```
 ### SUBQUERY
 ### JOIN
+![image](https://user-images.githubusercontent.com/74011230/123363418-0aa77980-d5a5-11eb-8353-fb240143e8e3.png)
+
 #### UNION
 > The UNION operator is used to combine the result-sets of two or more SELECT statements.
 ```sql
