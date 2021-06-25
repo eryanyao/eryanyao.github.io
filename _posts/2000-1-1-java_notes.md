@@ -1,9 +1,9 @@
 ---
 layout: post
-title: JAVA Note
+title: Java Note
 ---
 
-Below is my JAVA note for preparing my interview. Java is a class based, object oriented programming language. 
+Below is my Java note for preparing my interview. Java is a class based, object oriented programming language. 
 
 ---
 <br><br><br>
