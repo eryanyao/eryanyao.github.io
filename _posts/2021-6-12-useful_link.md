@@ -9,7 +9,7 @@ This post will contain the link that i feel useful for me. It will contain show 
 
 guide us how to write markdown
 
-<https://www.markdownguide.org/basic-syntax/>
+<https://www.markdownguide.org/basic-syntax/> \
 <https://commonmark.org/help/>
 
 ---
