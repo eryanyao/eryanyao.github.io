@@ -8,3 +8,4 @@ Below is my JavaScript note.
 ---
 <br><br><br>
 
+### Array
