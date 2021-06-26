@@ -29,6 +29,7 @@ I want to get a developer position because I want to use the talents I learned f
 
 
 ### Project Display
+
 1. Why conduct this project？
 - I want to know the process for the inventory management and i already conduct the analysis and visualization with the sales record. In additional, i can have the better understanding with the crud operation with the inventory record. It can help me improve my understanding for the CRUD operation. In fact, i learn a lot from this project when i completed it. 
 
