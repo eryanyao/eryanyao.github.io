@@ -4,6 +4,8 @@ title: React Native
 ---
 This posts will contain some note that I write down when i learning react native. It contain some code, notes, documents, etc.
 
+### Frontend 
+![image](https://user-images.githubusercontent.com/74011230/123505485-eecdd180-d691-11eb-9308-a42f391b7fce.png)
 
 
 
