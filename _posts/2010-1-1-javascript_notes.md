@@ -68,3 +68,9 @@ const total = items.reduce((currentTotal,item)=>{
 const includesTwo = items.price.includes(100)
 //return true, check item having data or not
 ```
+
+### Equality
+```javascript
+"88" == 88 //true, it will convert make it same
+"88" === 88 //false
+```
