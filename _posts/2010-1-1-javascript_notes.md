@@ -7,6 +7,8 @@ Below is my JavaScript note.
 
 <br>
 
+
+
 ### Array
 ```javascript
 const items = [
@@ -74,3 +76,7 @@ const includesTwo = items.price.includes(100)
 "88" == 88 //true, it will convert make it same
 "88" === 88 //false
 ```
+
+#### Source
+
+<https://www.youtube.com/watch?v=a00NRSFgHsY> 
