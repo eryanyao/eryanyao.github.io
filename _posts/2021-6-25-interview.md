@@ -12,34 +12,35 @@ This post is use for record how to improve interview skill and how to sell yours
 1. Who having more than 10 year experience
 2. Know everything they want？
 3. Confident
-4. 
+
+
 ### Introduction yourself
 ![image](https://user-images.githubusercontent.com/74011230/123500709-8a4f4a00-d672-11eb-8503-c9fa7dc4f0b6.png)
 **Source:** <https://7esl.com/introduce-yourself/>
 <br>
-Hello my name is ER YAN YAO.
+1. Hello my name is ER YAN YAO.
 
-I am Malaysian. Currently, I am in my hometown of Skudai, Johor.
+2. I am Malaysian. Currently, I am doing an internship in my hometown of Skudai, Johor. The position is a software engineer.
 
-I am 22 year old. 
+3. I am 22 year old. 
 
-I am a student at INTI International University 
+4. I am a student at INTI International University 
 
-My major is a bachelor's degree in information technology, and I will graduate in September 2021. 
+5. My major is a bachelor's degree in information technology, and I will graduate in September 2021. 
 
-I have studied this subject for nearly 3 years, and my current cgpa is 3.57.
+6. I have studied this subject for nearly 3 years, and my current cgpa is 3.57.
 
-My hobbies is listen music and playing video games. 
+7. My hobbies is listen music and playing video games. 
 
-In my free time, I also enjoy playing badminton.
+8. In my free time, I also enjoy playing badminton.
 
-In the old days, I would go to the court to play badminton with my friends.
+9. In the old days, I would go to the court to play badminton with my friends.
 
-OK lastly, let me talk about why I need this job. 
+10. Lastly, let me talk about why I need this job. 
 
-I want to become a developer because I want to use the talents that I learned from university and self study. 
+11. I want to become a developer because I really need a place to use the talents that I learned from university and self study. 
 
-I like coding and enjoy the process of developing software. So I hope to get a good platform that can help me gain more experience and improve my problem-solving ability in my career.
+12. I like coding and enjoy the process of developing software. So I hope to get a good platform that can help me gain more experience and improve my problem-solving ability in my career.
 
 
 ### Project Display
