@@ -49,6 +49,12 @@ WHERE state NOT IN ('MY','SG','TW');
 ### SUBQUERY
 ### JOIN
 ![image](https://user-images.githubusercontent.com/74011230/123363418-0aa77980-d5a5-11eb-8353-fb240143e8e3.png)
+- INNER JOIN
+INNER JOIN will select the rows that exist in Table 1 and Table 2.
+- LEFT JOIN
+LEFT JOIN will select all records from the left table (table1), and the matching records from the right table (table2).
+- RIGHT JOIN
+It is opposite with the LEFT JOIN, RIGHT JOIN will select all records from the right table (table2), and the matching records from the left table (table1).
 
 #### UNION
 > The UNION operator is used to combine the result-sets of two or more SELECT statements.
