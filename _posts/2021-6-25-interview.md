@@ -18,14 +18,16 @@ This post is use for record how to improve interview skill and how to sell yours
 **Source:** <https://7esl.com/introduce-yourself/>
 <br>
 Hello my name is ER YAN YAO.
-I am Malaysian. Currently I am in my hometown of Skudai, Johor.
+I am Malaysian. Currently, I am in my hometown of Skudai, Johor.
 I am 22 year old. 
 I am a student at INTI International University 
-My major is a bachelor's degree in information technology, and I will graduate in September 2021. I have been studying this subject for 4 years.
-My hobbies is listen music and reading. (I like lyrical songs)
+My major is a bachelor's degree in information technology, and I will graduate in September 2021. I have studied this subject for nearly 3 years, and my current cgpa is 3.57.
+My hobbies is listen music and playing video games. 
 In my free time, I also enjoy playing badminton.
 In the old days, I would go to the court to play badminton with my friends.
-I want to get a developer position because I want to use the talents I learned from university. I like coding very much and hope to get a good learning platform to improve my ability to solve problems in development.
+OK lastly, let me talk about why I need this job. 
+I want to become a developer because I want to use the talents that I learned from university and self study. 
+I like coding and enjoy the process of developing software. So I hope to get a good platform that can help me gain more experience and improve my problem-solving ability in my career.
 
 
 ### Project Display
@@ -38,9 +40,14 @@ I want to get a developer position because I want to use the talents I learned f
 
 ### Strength and Weakness
 #### Strength
-- Creativity
-- Discipline
+- Creativity (That is the important thing to a software engineer, developer)
+- Discipline 
+- Respectfulness (I can say that I am a disciplined and respectful person，i will follow the rule of the company and follow the instructions from my supervisor.
 - Patience
-- Respectfulness
 - Honesty
 - Positive Attitude
+
+#### Weakness
+- I am fresh graduate, so i am the Newbie to the job
+- less experience is my weakness, but i will try to improve my ability.
+- 
