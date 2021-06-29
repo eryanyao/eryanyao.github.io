@@ -65,13 +65,57 @@ document.write("Book title is : " + myBook.title + "<br>");
 document.write("Book author is : " + myBook.author + "<br>");
 document.write("Book price is : " + myBook.price + "<br>");
 ```
+
+```javascript
+var user = {
+ name: 'Johnson',
+ birth: 1999,
+ calculateAge: function(){
+   //code to calculate
+ }
+}
+```
 ### Array
+> create array object
+```javascript
+var fruits = new Array( "apple", "orange", "mango" );
+```
+```javascript
+var fruits = [ "apple", "orange", "mango" ];
+```
+output:
+```javascript
+fruits[0] is the first element
+fruits[1] is the second element
+fruits[2] is the third element
+```
 ```javascript
 const items = [
   { name: 'Bike', price: 100 },
   { name: 'Motor', price: 200 },
 ]
 ```
+- array.length
+> to know the length of the array
+- .concat()
+```javascript
+ var alpha = ["a", "b", "c"];
+ var numeric = [1, 2, 3];
+ 
+ var alphaNumeric = alpha.concat(numeric);
+ 
+ //output: alphaNumeric : a,b,c,1,2,3
+```
+- .indexOf() 
+> check the item's index
+```javascript
+var index = [12, 5, 8, 130, 44].indexOf(8);
+document.write("index is : " + index ); //index is : 2
+
+var index = [12, 5, 8, 130, 44].indexOf(13);
+document.write("<br />index is : " + index ); //index is : -1 (-1 mean not available in the array)
+```
+
 - filter
 ```javascript
 const filteredItems = items.filter((item)=>{
@@ -87,6 +131,11 @@ const itemName = items.map((item)=>{
 const itemPrice = items.map((item)=>{
   return item.price
 })
+```
+```javascript
+var numbers = [1, 4, 9];
+var roots = numbers.map(Math.sqrt);
+document.write("roots is : " + roots ); //roots is : 1,2,3
 ```
 - find
 ```javascript
@@ -275,6 +324,54 @@ num.toString(4) is 33
 ```javascript
 var num = new Number(15.11234);
 num.valueOf() is 15.11234
+```
+### Promise
+> promise is an object provides useful construct when dealing with asynchronous tasks. Promise can ensure success or failure of the  taks
+```javascript
+//create a promise
+const p = new Promise((resolve,reject)=>{
+
+ setTimeout(()=>{
+   if(){
+    resolve('success');
+   }
+   else{
+    reject('fail');
+   }
+  },2000)
+})
+
+//use a promise
+p.then((res)=>{
+ console.log(res)
+})
+.catch((err)=>{
+ console.log(err)
+})
+```
+### Constructor
+```javascript
+//define constructor
+function Car(make,model,year){
+ this.make = make;
+ this.model = model;
+ this.year = year;
+ 
+ this.setMiles = function(miles){
+  this.miles =  miles;
+  return miles;
+ }
+}
+
+//use constructor
+const car1 = new Car('Toyota','Vios',2005);
+
+//add method to the constructor
+Car.prototype.age = function(){
+ return (new Date().getFullYear() - this.year; //this year = 2021 (calculation: 2021-2005)
+}
+
+car1.age(); //return 16
 ```
 #### Source
 <https://www.tutorialspoint.com/javascript/index.htm> \
