@@ -77,6 +77,109 @@ const includesTwo = items.price.includes(100)
 "88" === 88 //false
 ```
 
-#### Source
+### Loop
+#### while
+> The most basic loop in JavaScript is the while loop which would be discussed in
+this chapter. The purpose of a while loop is to execute a statement or code
+block repeatedly as long as an expression is true. Once the expression
+becomes false, the loop terminates.
+```javascript
+while (expression){
+ Statement(s) to be executed if expression is true
+}
+```
+#### while loop
+>  The do...while loop is similar to the while loop except that the condition check
+happens at the end of the loop. This means that the loop will always be executed
+at least once, even if the condition is false.
+```javascript
+do{
+  statement;
+}while(condition)
+```
 
+### for
+#### for-in loop
+> The for...in loop is used to loop through an object's properties. As we have not
+discussed Objects yet, you may not feel comfortable with this loop. But once you
+understand how objects behave in JavaScript, you will find this loop very useful.
+```javacript
+for (variable in object){
+  statement;
+}
+```
+
+### break n continue
+#### break
+> stop the looping
+```javascript
+var x = 1;
+document.write("Entering the loop<br /> ");
+while (x < 20)
+{
+ if (x == 5){
+ break; // breaks out of loop completely
+ }
+ x = x + 1;
+ document.write( x + "<br />");
+}
+document.write("Exiting the loop!<br /> ");
+```
+#### continue
+> skip the following looping and continue
+```javascript
+var x = 1;
+document.write("Entering the loop<br /> ");
+while (x < 10)
+{
+ x = x + 1;
+ if (x == 5){
+ continue; // skill rest of the loop body
+ }
+ document.write( x + "<br />");
+}
+document.write("Exiting the loop!<br /> ");
+```
+#### use Labels to Control the Flow
+```javascript
+document.write("Entering the loop!<br /> ");
+outerloop: // This is the label name
+for (var i = 0; i < 5; i++)
+{
+ document.write("Outerloop: " + i + "<br />");
+ innerloop:
+ for (var j = 0; j < 5; j++)
+  {
+ if (j > 3 ) break ; // Quit the innermost loop
+ if (i == 2) break innerloop; // Do the same thing
+ if (i == 4) break outerloop; // Quit the outer loop
+ document.write("Innerloop: " + j + " <br />");
+ }
+}
+document.write("Exiting the loop!<br /> ");
+```
+Output:
+```
+Entering the loop!
+Outerloop: 0
+Innerloop: 0
+Innerloop: 1
+Innerloop: 2
+Innerloop: 3
+Outerloop: 1
+Innerloop: 0
+Innerloop: 1
+Innerloop: 2
+Innerloop: 3
+Outerloop: 2
+Outerloop: 3
+Innerloop: 0
+Innerloop: 1
+Innerloop: 2
+Innerloop: 3
+Outerloop: 4
+Exiting the loop!
+```
+#### Source
+<https://www.tutorialspoint.com/javascript/index.htm> \
 <https://www.youtube.com/watch?v=a00NRSFgHsY> 
