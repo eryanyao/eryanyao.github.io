@@ -6,7 +6,64 @@ title: JavaScript Note
 Below is my JavaScript note.
 
 <br>
+### Object
+- Encapsulation: the capability to store related information, whether data or methods, together in an object. 封装
+- Aggregation: the capability to store one object inside another object. 聚合
+- Inheritance: the capability of a class to rely upon another class (or number of classes) for some of its properties and methods. 继承
+- Polymorphism: the capability to write one function or method that works in a variety of different ways. 多态性
+```javascript
+objectName.objectProperty = propertyValue;
 
+var str = document.title;
+
+document.write ("This is test");
+```
+- new operator
+```javascript
+var employee = new Object();
+var books = new Array("C++", "Perl", "Java");
+var day = new Date("August 15, 1947");
+```
+- **Object() Constructor**
+1. Eg1
+```javascript
+var book = new Object(); // Create the object
+book.subject = "Perl"; // Assign properties to the object
+book.author = "Mohtashim";
+```
+2. Eg2
+```javascript
+function book(title, author){
+ this.title = title;
+ this.author = author;
+}
+
+var myBook = new book("Perl", "Mohtashim"); //create new object
+
+myBook.title //display 
+myBook.author
+```
+- define method for object
+```javascript
+// Define a function which will work as a method
+function addPrice(amount){
+ this.price = amount;
+}
+function book(title, author){
+ this.title = title;
+ this.author = author;
+ this.addPrice = addPrice; // Assign that method as property.
+}
+```
+```javascript
+ var myBook = new book("Perl", "Mohtashim");
+ myBook.addPrice(100);
+```
+```javascript
+document.write("Book title is : " + myBook.title + "<br>");
+document.write("Book author is : " + myBook.author + "<br>");
+document.write("Book price is : " + myBook.price + "<br>");
+```
 ### Array
 ```javascript
 const items = [
