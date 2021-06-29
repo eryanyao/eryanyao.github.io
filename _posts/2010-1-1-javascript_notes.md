@@ -7,8 +7,6 @@ Below is my JavaScript note.
 
 <br>
 
-
-
 ### Array
 ```javascript
 const items = [
@@ -75,6 +73,26 @@ const includesTwo = items.price.includes(100)
 ```javascript
 "88" == 88 //true, it will convert make it same
 "88" === 88 //false
+```
+### function
+#### Function() Constructor
+```javascript
+var func = new Function("x","y","return x+y")
+
+var result = func(10,10);
+```
+#### Function Literals
+>  is an expression that defines an unnamed function.
+```javascript
+var func = function(x,y){return x+y}
+```
+### void
+```javascript
+void func()
+javascript:void func()
+OR
+void(func())
+javascript:void(func())
 ```
 
 ### Loop
