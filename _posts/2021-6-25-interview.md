@@ -73,6 +73,8 @@ This post is use for record how to improve interview skill and how to sell yours
 2. Techniques
 - I using ASP.NET as the framework. It allow me build dynamic web application. The C# and javascript use to handle the component of the website. And i also using Bootstrap and W3.CSS for my UI. And I also using some external library and api for this project. For example, Google chart, datatable, etc. And i using Mysql for my database. 
 
+3. Sales Analysis Logic
+- The sales analysis i using SQL query to return the result. For example, based on the category, I use the bill table inner join category table based on the category id and group them in the selected month and year. 
 ### Strength and Weakness
 #### Strength
 - Creativity (That is the important thing to a software engineer, developer)
