@@ -6,6 +6,7 @@ title: JavaScript Note
 Below is my JavaScript note.
 
 <br>
+
 ### Object
 - Encapsulation: the capability to store related information, whether data or methods, together in an object. 封装
 - Aggregation: the capability to store one object inside another object. 聚合
@@ -254,6 +255,26 @@ Innerloop: 2
 Innerloop: 3
 Outerloop: 4
 Exiting the loop!
+```
+### Number
+- .toPrecision()
+```javascript
+num.toPrecision() is 7.123456
+num.toPrecision(4) is 7.123
+num.toPrecision(2) is 7.1
+num.toPrecision(1) is 7
+```
+- .toString()
+```javascript
+num.toString() is 15
+num.toString(2) is 1111 \\binary
+num.toString(4) is 33
+```
+- .valueOf()
+> Returns the primitive value of the specified number object.
+```javascript
+var num = new Number(15.11234);
+num.valueOf() is 15.11234
 ```
 #### Source
 <https://www.tutorialspoint.com/javascript/index.htm> \
