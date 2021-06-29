@@ -84,9 +84,10 @@ GROUP BY product_category
 - The sales analysis i using SQL query to return the result. For example, based on the category analysis result, I select the category name, and using Count() to calculate the quantity of the bill from bill_item table left join product table based on the product id and inner join the bill table Where year and month and group them by category.
 - Bill item table will show the bill detail including product id, quantity, price, and i make it left join the product table is to get the category name. After that i use this grouped table inner join the bill table to get the table having category, year and month, and i using where year and month to selected the data i need, at the end, using group by to get the result. result will return category name and count of the category based on the following month.
 <br>
-Explain join
-- INNER JOIN INNER JOIN will select the rows that exist in Table 1 and Table 2.
-- LEFT JOIN LEFT JOIN will select all records from the left table (the first table), and the matching records from the right table (the second table).
+- Explain join:
+
+- INNER JOIN will select the rows that exist in Table 1 and Table 2.
+- LEFT JOIN will select all records from the left table (the first table), and the matching records from the right table (the second table).
 ### Strength and Weakness
 #### Strength
 - Creativity (That is the important thing to a software engineer, developer)
